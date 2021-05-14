@@ -1,6 +1,16 @@
+// --------------------------------------------------------
+// Name: Brennan Longstreth
+// File: built_in_fun.h
+// Contributors: 
+// Descritpion: File to define built in functions (for the C++
+//              compiler after translation) 
+// Notes: 
+// Date Edited: 5/5/21
+// --------------------------------------------------------
+
 #ifndef BUILT_IN_FUN_H
 #define BUILT_IN_FUN_H
-//File to add built in function defintions to the C++ code
+
 #include <iostream>
 
 using namespace std;
@@ -13,10 +23,12 @@ string itos(int s) {
     return to_string(s);
 }
 
+// already built in to c++
 // int stoi(string s) {
 //    return stoi(s);
 // }
 
+// already built in to c++
 //void stod() {
 //
 //}
@@ -30,7 +42,6 @@ int length(string s) {
 }
 
 string get(int i, string s) {
-    //cout << s.substr(i,1) << "-------" << endl;
     return s.substr(i,1);
 }
 
