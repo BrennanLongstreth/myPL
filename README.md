@@ -23,6 +23,7 @@ extensions like the list and classes so that the translator worked with those as
 #### Instructions for building and running:
 run "cmake CMakeLists.txt" to generate make files.  
 run "make" to build the compiler executables.  
+(in the following commands, test files are included in the "tests/" folder.)
 run "./mypl <FILE_NAME>" to run a file directly.  
 run "./mypltocpp <FILE_NAME>" to run convert the file to c++ and run.  
 C++ files are stored in "test.cpp".  
