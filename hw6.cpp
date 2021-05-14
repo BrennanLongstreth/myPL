@@ -1,8 +1,10 @@
 //----------------------------------------------------------------------
-// NAME: S. Bowers
-// FILE: hw3.cpp
+// NAME: Shawn Bowers
+// FILE: hw6.cpp
+// CONTRIBUTORS: 
 // DATE: Spring 2021
-// DESC: HW-3 driver program for testing the parser.
+// DESC: HW-6 Driver program for testing the interpreter.
+// NOTES: 
 //----------------------------------------------------------------------
 
 #include <iostream>
