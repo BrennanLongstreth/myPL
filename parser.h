@@ -1,8 +1,10 @@
 //----------------------------------------------------------------------
-// NAME:Brennan Longstreth
-// FILE:Parser.h
-// DATE:3/1/21
-// DESC:Uses tokens from the lexer to build an abstract syntax tree
+// NAME: Brennan Longstreth
+// FILE: parser.h
+// CONTRIBUTORS: Shawn Bowers
+// DATE: 3/1/21
+// DESC: Uses tokens from the lexer to build an abstract syntax tree.
+// NOTES: 
 //----------------------------------------------------------------------
 
 #ifndef PARSER_H
