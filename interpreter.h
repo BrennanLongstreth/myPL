@@ -1,8 +1,10 @@
 //----------------------------------------------------------------------
-// NAME: 
-// FILE: 
-// DATE: 
-// DESC:
+// NAME: Brennan Longstreth
+// FILE: interpreter.h
+// CONTRIBUTORS: Shawn Bowers
+// DATE: Spring 2021
+// DESC: Interpreter to run MyPL code after type checking is done.
+// NOTES: 
 //----------------------------------------------------------------------
 
 
