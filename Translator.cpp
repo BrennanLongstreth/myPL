@@ -1,8 +1,11 @@
 //----------------------------------------------------------------------
 // NAME: S. Bowers
-// FILE: hw3.cpp
+// FILE: Translator.cpp
+// CONTRIBUTORS: Brennan Longstreth
 // DATE: Spring 2021
-// DESC: HW-3 driver program for testing the parser.
+// DESC: HW-6 driver program for testing the interpreter.
+// NOTES: Edited by Brennan to run the translator instead of the
+//        interpreter, then compile and exectute the output file.
 //----------------------------------------------------------------------
 
 #include <iostream>
