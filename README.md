@@ -17,7 +17,8 @@ extensions like the list and classes so that the translator worked with those as
 * I also would like to write some longer programs in MyPL to stress my interpreter a bit more and maybe give the c++ compiler an advantage.
 
 #### Instructions for building and running:
-run "make" to build the compiler executables  
-run "./mypl <FILE_NAME>" to run a file directly  
+run "cmake "CMakeLists.txt"" to generate make files.  
+run "make" to build the compiler executables.  
+run "./mypl <FILE_NAME>" to run a file directly.  
 run "./mypltocpp <FILE_NAME>" to run convert the file to c++ and run.  
 C++ files are stored in "test.cpp".  
