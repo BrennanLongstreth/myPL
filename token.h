@@ -1,8 +1,10 @@
 //----------------------------------------------------------------------
 // NAME: Brennan Longstreth
 // FILE: token.h
+// CONTRIBUTORS: Shawn Bowers
 // DATE: Spring 2021
-// DESC: Token representation for MyPL. 
+// DESC: Token representation for MyPL.
+// NOTES: 
 //----------------------------------------------------------------------
 
 #ifndef TOKEN_H
