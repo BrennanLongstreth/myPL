@@ -1,10 +1,12 @@
 //----------------------------------------------------------------------
-// NAME:Brennan Longstreth
-// FILE:printer.h
-// DATE:3/1/21
-// DESC:pretty prints the program from the abstract syntax tree
+// NAME: Brennan Longstreth
+// FILE: printer.h
+// CONTRIBUTORS: Shawn Bowers
+// DATE: 3/1/21
+// DESC: translates the program to c++ and places it in test.cpp
+// NOTES: Cannot replicate behavior around setting '=' to nil on non UDT 
+//        types
 //----------------------------------------------------------------------
-
 
 #ifndef PRINTER_H
 #define PRINTER_H
