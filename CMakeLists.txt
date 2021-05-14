@@ -1,3 +1,11 @@
+######################################################
+# Name: Shawn Bowers
+# File: CMakeLists.txt
+# Contributors: Brennan Longstreth
+# Descritpion: File for CMake to build executables
+# Notes: 
+# Date Edited: 5/5/21
+######################################################
 
 project(MyPL)
 
