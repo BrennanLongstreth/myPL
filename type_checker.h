@@ -1,8 +1,11 @@
 //----------------------------------------------------------------------
-// NAME: 
-// FILE: 
-// DATE: 
-// DESC:
+// NAME: Brennan Longstreth
+// FILE: type_checker.h
+// CONTRIBUTORS: Shawn Bowers
+// DATE: Spring 2021
+// DESC: Checks types around operations to make sure no type errors happen
+//       during run time.
+// NOTES: 
 //----------------------------------------------------------------------
 
 
