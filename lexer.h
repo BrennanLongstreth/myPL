@@ -1,8 +1,11 @@
 //----------------------------------------------------------------------
-// NAME:Brennan Longstreth
-// FILE:lexer.h
-// DATE:2/15/2020
-// DESC:decides on what token to apply to each word in  
+// NAME: Brennan Longstreth
+// FILE: lexer.h
+// CONTRIBUTORS: Shawn Bowers
+// DATE: 2/15/2020
+// DESC: Decides on which token to place in the token stream based on 
+//       input character stream
+// NOTES: 
 //----------------------------------------------------------------------
 
 #ifndef LEXER_H
